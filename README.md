@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @McWolvie
 - 👀 I’m interested in Information Technology Support, IT Automation with Python  y  diseño visual.
-- 🌱 I’m currently learning Google Fundae Sepe Scholarships. IT support and IT Automation with Python  y  a través de YouTube, blogs, webs, etc Aprendo diseño visual.
-- 💞️ I’m looking to collaborate on  cualquier  proyecto que me de una opurtinadad para demostrar  mí valía.
+- 🌱 I’m currently learning Google Fundae Sepe Scholarships. IT support and IT Automation with Python  y  a través de YouTube, blogs, webs, etc Aprendo diseño visual de manera autodidacta.
+- 💞️ I’m looking to collaborate on  cualquier  proyecto que me de una opurtinadad para desarrollarme en este maravilloso mundo le la Tecnología de laI nformación y el Diseño Visaul.
 - 📫 How to reach me . A t través  de mi correo  lobezno2001@gmail.com
 
 <!---
