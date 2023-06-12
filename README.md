@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, my name is McWolvie</h1>
+<h1 align="center">Hello There, my name is Óscar Caamaño (McWolvie)</h1>
 <h3 align="center">A passionate developer from planet Earth</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
