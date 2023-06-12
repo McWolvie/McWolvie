@@ -10,7 +10,7 @@
 **I like to draw 🎨
 👽 I'm a Star Wars, Marvel, DC, Harry Potter, geek... 
 "George Lucas is my god and Dave Filoni is our prophet."😱😜
-🎞️ I love action movies, science fiction, fantasy and comedy. 
+📽️ I love action movies, science fiction, fantasy and comedy. 
 May the force be with you, Always!!**
 
 <h3 align="left">Connect with me:</h3>
