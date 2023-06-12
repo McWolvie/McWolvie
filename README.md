@@ -1,12 +1,17 @@
-<h1 align="center">Hello There, 🤘🤙 </h1>
+<h1 align="center">Hello There,🤘🤙 </h1>
 <h2 align="center">my name is Óscar Caamaño (McWolvie)</h2>
-<h3 align="center">A passionate developer from planet Earth</h3>
+<h3 align="center">A passionate developer from planet Earth 🗺️</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
+-  📚📝 I’m currently learning **JavaScript, HTML5, CSS3 and Davinci Resolve**
 
-- 📫 How to reach me **lobezno2001@gmail.com**
+- 📬 How to reach me **lobezno2001@gmail.com**
 
-- ⚡ Fun fact **I like to draw and I'm a Star Wars, Marvel, DC geek... George Lucas is my god and Dave Filoni is our prophet. May the force be with you, Always!!**
+- 🥸 Fun fact 
+**I like to draw 🎨
+👽 I'm a Star Wars, Marvel, DC, Harry Potter, geek... 
+"George Lucas is my god and Dave Filoni is our prophet."😱😜
+🎞️ I love action movies, science fiction, fantasy and comedy. 
+May the force be with you, Always!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
