@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Óscar
+# Hi, There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I´m Óscar
   
 ## About Me
 I'm a Junior Full Stack Developer with experience in artificial intelligence, cybersecurity, and web development. 
@@ -46,7 +46,9 @@ I'm a Junior Full Stack Developer with experience in artificial intelligence, cy
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=McWolvie&theme=dark)
+---------------------------------------------------------------------------------------------------------------
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=McWolvie&show_icons=true&theme=dark)
+---------------------------------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McWolvie&layout=compact&theme=dark)
 
 
