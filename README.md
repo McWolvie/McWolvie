@@ -5,10 +5,9 @@ I'm a Junior Full Stack Developer with experience in artificial intelligence, cy
 
 ## 🔭 Highlighted Projects
 - **[Your GitHub Repositories](https://github.com/McWolvie?tab=repositories)**
-  - **[Sleep_Token_Replicate](https://github.com/McWolvie/Sleep_Token_Replicate)**: Replica de la página web de la banda de música Sleep Token.
-  - **[App-Weather-Forecast](https://github.com/McWolvie/Project-App-Weather-Forecast)**: Simulación de aplicación Previsión Meteorológica.
-  - **[game Rock, 
-   Paper, Scissors, Lizard, Spock](https://github.com/McWolvie/Project-Game-Vite)**: Simulación del juego Piedra, 
+  - **[Replica of the Sleep Token band website.](https://github.com/McWolvie/Sleep_Token_Replicate)**: Replica de la página web de la banda de música Sleep Token.
+  - **[App Weather Forecast](https://github.com/McWolvie/Project-App-Weather-Forecast)**: Simulación de aplicación Previsión Meteorológica.
+  - **[Game Rock, Paper, Scissors, Lizard, Spock](https://github.com/McWolvie/Project-Game-Vite)**: Simulación del juego Piedra, 
    Papel, Tijera, Lagarto, Spock.
 
 ## 📜 Certifications
