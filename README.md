@@ -11,12 +11,6 @@ I'm a Junior Full Stack Developer with experience in artificial intelligence, cy
    Paper, Scissors, Lizard, Spock](https://github.com/McWolvie/Project-Game-Vite)**: Simulación del juego Piedra, 
    Papel, Tijera, Lagarto, Spock.
 
-
-## 📜 Certifications
-- **IMPACT #include Cybersecurity Programme**, Fundación GoodJob - July 2024
-- **Applied Artificial Intelligence Workshop**, Fundación ONCE - November 2023
-- **Full Stack Web Programming Course – Web Design**, The MBA Power, Talento Digital, Fundación ONCE - July 2023
-- **Python Programming**, Universidad Nacional de Educación a Distancia - February 2021
 ## 📜 Certifications
 - **[IMPACT #INCLUDE Cybersecurity Programme](https://drive.google.com/file/d/1sdeoJh9Ma7MBuUZvpiwRo3Mnts1l-CBn/view?usp=drive_link)**, Fundación GoodJob - July 2024
 - **[IMPACT #CERO Cybersecurity Programme](https://drive.google.com/file/d/1l0xDvwmaRwfAKuJysBLUnZ4P0tdEi7qb/view?usp=drive_link)**, Fundación GoodJob - May 2024
@@ -39,6 +33,7 @@ I'm a Junior Full Stack Developer with experience in artificial intelligence, cy
   - **Leadership and Management:** Leading and motivating teams.
 
 ## 🛠️ Skills and Technologies
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat-square&logo=cybersecurity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -47,12 +42,13 @@ I'm a Junior Full Stack Developer with experience in artificial intelligence, cy
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-black?style=flat-square&logo=davinci-resolve)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat-square&logo=cybersecurity)
+
 
 ## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=McWolvie&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=McWolvie&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McWolvie&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=McWolvie&theme=dark)
+
 
 ## 📫 Contact
 - **Email:** mcwolviedev@yahoo.com
