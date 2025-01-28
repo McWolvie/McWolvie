@@ -3,34 +3,6 @@
 ## About Me
 I'm a Junior Full Stack Developer with experience in artificial intelligence, cybersecurity, and web development. 
 
-## 🔭 Highlighted Projects
-- **[Your GitHub Repositories](https://github.com/McWolvie?tab=repositories)**
-  - **[Replica of the Sleep Token band website.](https://github.com/McWolvie/Sleep_Token_Replicate)**: Replica de la página web de la banda de música Sleep Token.
-  - **[App Weather Forecast](https://github.com/McWolvie/Project-App-Weather-Forecast)**: Simulación de aplicación Previsión Meteorológica.
-  - **[Game Rock, Paper, Scissors, Lizard, Spock](https://github.com/McWolvie/Project-Game-Vite)**: Simulación del juego Piedra, 
-   Papel, Tijera, Lagarto, Spock.
-
-## 📜 Certifications
-- **[IMPACT #INCLUDE Cybersecurity Programme](https://drive.google.com/file/d/1sdeoJh9Ma7MBuUZvpiwRo3Mnts1l-CBn/view?usp=drive_link)**, Fundación GoodJob - July 2024
-- **[IMPACT #CERO Cybersecurity Programme](https://drive.google.com/file/d/1l0xDvwmaRwfAKuJysBLUnZ4P0tdEi7qb/view?usp=drive_link)**, Fundación GoodJob - May 2024
-
-- **[Applied Artificial Intelligence Workshop](https://drive.google.com/file/d/1eyyv_DUq9BvDcWxiuibz2_2pFLSTn0UV/view?usp=drive_link)**, Fundación ONCE - November 2023
-- **[Full Stack Web Programming Course – Web Design](https://drive.google.com/file/d/1l5EMKkyaLpPpAMnRjXXNsCC-d6FBhVYH/view?usp=drive_link)**, Fundación ONCE - July 2023
-- **[Python Programming](https://drive.google.com/file/d/1-ebOOGJHVdXFasrC7Cgj3pvw-YQ9sxBp/view?usp=drive_link)**, Universidad Nacional de Educación a Distancia - February 2021
-## 📚 Education
-- **EGB, BUP**
-## 💼 Relevant Professional Experience
-- **COORDINATOR Sales Room**, Akí Bricolaje and LEROY MERLÍN - 2008 to 2021
-  - **Project Management:** Coordinating sales and marketing strategies, ensuring the achievement of objectives and continuous improvement.
-  - **Communication:** Maintaining relationships with clients and suppliers.
-  - **Leadership:** Leading and motivating teams.
-  - **Data Analysis:** Evaluating sales results.
-
-- **CEO FOUNDING PARTNER**, CAAMON, SL - 2002 to 2008
-  - **Design and Development:** Using Autocad and Corel Draw for design.
-  - **Strategy and Marketing:** Planning marketing strategies.
-  - **Leadership and Management:** Leading and motivating teams.
-
 ## 🛠️ Skills and Technologies
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat-square&logo=cybersecurity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
