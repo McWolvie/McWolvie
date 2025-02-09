@@ -1,7 +1,7 @@
 # Hi, There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I´m Óscar
   
 ## About Me
-I'm a Junior Developer with experience in artificial intelligence, cybersecurity, and web development. 
+I am passionate about technology. I am a Star Wars, UCM and DC geek. I like to read adventure books, science fiction, history of Rome and Greece, comics and manga. One of my hobbies is drawing and watching videos on youtube about drawing, special effects, video and photo editing, web development and cybersecurity.
 
 ## 🛠️ Skills and Technologies
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat-square&logo=cybersecurity)
